@@ -1,0 +1,13 @@
+.head {
+    position: fixed;
+    z-index: 1;
+    background: white;
+    display: flex;
+}
+.logo {
+    background-image: url(./logo.svg);
+    width: 160px;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

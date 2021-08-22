@@ -1,0 +1,9 @@
+.shoes {
+    max-height: 80vh;
+    overflow: hidden;
+}
+
+.frame {
+    border: 0;
+    height: 100vh;
+}

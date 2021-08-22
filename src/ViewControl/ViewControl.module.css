@@ -1,0 +1,18 @@
+.viewControl {
+    display: flex;
+}
+
+.podium {
+    background-image: url(./podium.svg);
+    width: 100%;
+    height: 24vh;
+    position: absolute;
+    top: 53vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.controls {
+    background: black;
+    border-radius: 100%;
+}
